@@ -1,6 +1,6 @@
 # MazeSolver
 
-MazeSolver was my final programming project for my first semester of university. It is a procedural maze generator and solver written in Pascal, using the SwinGame library to generate the graphics.
+MazeSolver was my final programming project for my first semester of university. It is a procedural maze generator and solver written in Pascal, using the SwinGame library to generate the graphics. Note that this project was completed before I really knew about version control, and as such has very few commits.
 
 #### How do I get it working?
 
