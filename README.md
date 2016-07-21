@@ -22,4 +22,4 @@ We were asked to submit our final projects as one concatenated file. Obviously t
 
 ### Known bugs
 
-There is a a memory issue in the final version of the project that I wasn't able to isolate the cause of in time to fix before submitting. Roughly one in every 100 times the program executes, a memory exception will crash the program.
+There is a memory issue in the final version of the project that I wasn't able to isolate the cause of in time to fix before submitting. Roughly one in every 100 times the program executes, a memory exception will crash the program.
